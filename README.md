@@ -5,7 +5,9 @@
 - Visual Studio 
 ## 作業概述
 - Homework 1
-  - 搜尋最大值
+  - 此作業為手寫題目無程式碼 
 - Homework 2
+  - 搜尋最大值
+- Homework 3
   - 奇偶數累加統計
   
